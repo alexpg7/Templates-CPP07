@@ -1,7 +1,7 @@
 NAME = main
 SRC = main.cpp \
 
-INCLUDE = Makefile Array.hpp
+INCLUDE = Makefile Array.hpp Array.tpp
 
 OBJ = $(SRC:.cpp=.o)
 CC = c++

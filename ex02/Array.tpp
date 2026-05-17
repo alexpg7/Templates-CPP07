@@ -1,8 +1,9 @@
 #include "Array.hpp"
+#include <iostream>
 
 template <typename T> Array<T>::Array()
 {
-	_array = 0;
+	_array = nullptr;
 	_size = 0;
 }
 
@@ -14,7 +15,7 @@ template <typename T> Array<T>::Array(unsigned int n)
 		_array[i] = T();
 }
 
-template <typename T> Array<T>::Array(Array &copy)
+template <typename T> Array<T>::Array(Array &copy): _array(nullptr), _size(copy._size)
 {
 	*this = copy;
 }
