@@ -1,4 +1,4 @@
-# 🧐 Templates-CPP07 ![Static Badge](https://img.shields.io/badge/Barcelona-black?style=for-the-badge&logo=42&logoColor=%23FFFFFF)
+# 🃏 Templates-CPP07 ![Static Badge](https://img.shields.io/badge/Barcelona-black?style=for-the-badge&logo=42&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/Makefile-green?style=flat&logo=AnkerMake)
 ![Static Badge](https://img.shields.io/badge/status-completed-green?style=flat)
